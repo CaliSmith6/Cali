@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CaliMod.unity
+- path: Assets/NEW MOD.unity
   isLoaded: 1
   isActive: 1
